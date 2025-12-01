@@ -16,3 +16,10 @@ The goal of this project was to create a functional image recognition system cap
 - **presentation** – Project slides for class presentation  
 - **recording** – Video or audio presentation demonstration  
 - **model** – Trained model saved as an H5 file
+
+## Recordings
+
+- **Presentation** - https://drive.google.com/file/d/1l29BFtsijFIctukvDTyvgkBl-zPSxRr-/view?usp=drive_link
+- **App** - https://drive.google.com/file/d/1z4LCwwvuQFyv7Wuaic4aHljYUlXEMEJZ/view?usp=drive_link
+
+- 
